@@ -1,5 +1,4 @@
 <h1>SDES (Simplified Data Encryption Standard)</h1>
-<span class="badge">MIT License</span>
 
 <h2>Overview</h2>
 <p>SDES is a simplified version of the Data Encryption Standard (DES) designed to illustrate the core concepts of block cipher algorithms. This implementation focuses on demonstrating the fundamental principles of encryption and decryption using SDES, making it an excellent resource for educational purposes.</p>
