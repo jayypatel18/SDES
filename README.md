@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SDES (Simplified Data Encryption Standard)</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
-        h1, h2, h3 { color: #333; }
-        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; }
-        code { background-color: #f4f4f4; padding: 2px 4px; border-radius: 4px; }
-        a { color: #1a73e8; text-decoration: none; }
-        a:hover { text-decoration: underline; }
-        .badge { display: inline-block; padding: 5px 10px; font-size: 12px; font-weight: bold; color: #fff; background-color: #007bff; border-radius: 4px; }
-    </style>
-</head>
-<body>
-
 <h1>SDES (Simplified Data Encryption Standard)</h1>
 <span class="badge">MIT License</span>
 
@@ -36,10 +18,8 @@
     <li><strong>Clone the Repository:</strong></li>
     <pre><code>git clone https://github.com/jayypatel18/SDES.git
 cd SDES</code></pre>
-
     <li><strong>Build the Project:</strong></li>
     <p>Follow the instructions specific to your development environment. For example, you may need to use <code>make</code> or another build tool if applicable.</p>
-
     <li><strong>Run the Example:</strong></li>
     <p>After building the project, you can run the example to see SDES in action. Make sure to provide the necessary input parameters (like the key and plaintext) as specified in the documentation.</p>
 </ol>
